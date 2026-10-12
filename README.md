@@ -3,10 +3,10 @@
 A full-stack club membership registration and directory application. A member completes a controlled React form, Axios sends the request to an Express API, the server validates the data, and MySQL stores the record. Saved registrations can be searched, viewed, edited, and deleted.
 
 ## Members:
-Laxamana, Karl Kristian Kenneth, N.
-Villanueva, Martin Andrei 
-Mendoza, Chantel Zarah 
-Villajuan, Keannu 
+- Laxamana, Karl Kristian Kenneth, N.
+- Villanueva, Martin Andrei 
+- Mendoza, Chantel Zarah 
+- Villajuan, Keannu 
 
 ## Tech stack
 
