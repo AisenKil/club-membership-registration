@@ -188,11 +188,34 @@ React Hook Form/Zod and JWT authentication are not included. The app is intended
 
 ## GitHub submission
 
-This project folder has not been pushed to a remote GitHub repository. Create a repository visible to your instructor, then commit and push the schema/setup, API, and client work in logical steps as you develop and test them. Do not commit `.env` files or real credentials.
+The project has already been committed and pushed to GitHub.
 
-## Known issues / notes
+The repository contains the complete frontend, backend, database schema, Docker Compose configuration, tests, and project documentation.
 
-- CORS defaults to `http://localhost:5173`; update `CLIENT_ORIGIN` in `server/.env` if the frontend is hosted elsewhere.
-- The current setup is for local development; cloud deployment and HTTPS are not configured.
-- Sample records are inserted only when MySQL initializes a new empty volume. Removing the volume resets the local data.
-- The delete action uses a browser confirmation dialog.
+Environment files containing passwords or other local credentials should remain excluded from the repository. Use the provided .env.example files when setting up the project on another machine.
+
+## Project Status
+
+React registration interface
+
+Client-side validation
+
+Express REST API
+
+Server-side validation
+
+MySQL database storage
+
+Dockerized database environment
+
+Member search and filtering
+
+Member editing and deletion
+
+Persistent database storage
+
+Server-side tests
+
+Production frontend build
+
+GitHub repository and project documentation
